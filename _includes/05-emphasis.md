@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I'm a web dev*
+_backend developer_
+
+**Blaaa blaa**
+__Bold line__
+
+_hello **raju** hw r u_
